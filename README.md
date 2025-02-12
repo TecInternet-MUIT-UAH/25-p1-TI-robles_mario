@@ -33,7 +33,7 @@ Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 ### Requisitos:
 
 - **Python 3.7+**
-- **MongoDB** (o acceso a una base de datos MongoDB en la nube)
+- **MongoDB** 
 - **Cuenta de Beebotte** para utilizar el servicio de almacenamiento y gráficos
 
 ### Pasos:
