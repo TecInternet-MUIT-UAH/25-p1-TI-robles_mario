@@ -41,4 +41,4 @@ Para instalar y ejecutar el proyecto en tu máquina local, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/MarioRobles-uah/P1_TDI.git
+   git clone https://github.com/TecInternet-MUIT-UAH/25-p1-TI-robles_mario
